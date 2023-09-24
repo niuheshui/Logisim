@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=Logisim
+Comment=Logisim
+Exec=java -jar /home/hadoop/Logisim/Logisim-ITA.jar
+Type=Application
+Terminal=false
+Icon=/home/hadoop/Logisim/logisim-icon-128.png
